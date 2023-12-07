@@ -13,7 +13,6 @@
 
 - I like scripting using Lua/Python
 - Student/Autodidact
-- Currently learning Java hibernate and spring boot
 - Indie games lover
 
 
