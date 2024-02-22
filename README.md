@@ -13,7 +13,7 @@
 
 - I like scripting using Lua/Python
 - Student/Autodidact
-- Indie games >>
+- Indie games enjoyer
 
 
 <br><br>
