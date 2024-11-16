@@ -9,7 +9,7 @@
 ## <picture><img src="https://private-user-images.githubusercontent.com/74038190/238355372-4aba8602-6a81-4772-af1f-f593ee6c389f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3ODA3NTUsIm5iZiI6MTczMTc4MDQ1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzItNGFiYTg2MDItNmE4MS00NzcyLWFmMWYtZjU5M2VlNmMzODlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE2VDE4MDczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhOGEyZWYyNDYzODdkMzY3MTM5MzUyMDNlOGMxMDE0NDQ3MTJmYjUzZDJmNzg3NjY4ODU0OTAwNzMwNzc4YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rk7I1TLhqsExaX4ckrEzWMWJQ7SbAZnYWfcDAKmoT5Q" width="50px"></picture> **About Me**
 I am a passionate student and self-taught programmer with a keen interest in coding with experience in scripting using Lua, and backend with Django, .Net and Laravel. Here's a little about me:
 
-- 🌟 **Languages:** Lua, Python, Java, C# and always exploring new tools.
+- 🌟 **Languages:** Lua, Python, Java, C#, PHP, TS and always exploring new tools.
 - 📖 **Learning Style:** Autodidact with a curiosity-driven approach and 3rd year of systems engineering student.
 - 🎮 **Hobbies:** Indie games enthusiast, forever inspired by creative game design.
 
