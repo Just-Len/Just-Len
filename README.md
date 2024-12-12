@@ -11,7 +11,7 @@ I am a passionate student and self-taught programmer with a keen interest in cod
 
 - 🌟 **Languages:** Lua, Python, Java, C#, PHP, TS and always exploring new tools.
 - 📖 **Learning Style:** Autodidact with a curiosity-driven approach and 3rd year of systems engineering student.
-- 🎮 **Hobbies:** Indie games enthusiast, forever inspired by creative game design.
+- 🎮 **Hobbies:** Indie games enthusiast, forever inspired by creative game design, i also like to travel and take photos.
 
 ---
 
