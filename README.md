@@ -4,6 +4,7 @@
 </p>
 
 **About Me**
+---
 <br>
 I am a passionate student and self-taught programmer with a keen interest in coding with experience in scripting using Lua, and backend with Django, .Net and Laravel. Here's a little about me:
 
