@@ -16,6 +16,3 @@ I am a passionate student and self-taught programmer with a keen interest in cod
 
 ## **Let's Connect!**
 Feel free to reach out or explore my repositories for projects I'm currently working on. Collaboration and feedback are always welcome!
-
-
-<br><br>
