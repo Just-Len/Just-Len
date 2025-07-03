@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile;Mastering+the+world+of+code;Learning+something+new+every+day"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Halo"></a>
 </p>
 
 **About Me**
